@@ -63,6 +63,16 @@
 | 19 | L2-Bench: An Evaluation Benchmark for Measuring LLM Capabilities in Second Language Education | NeurIPS 2026 | 面向二语学习与评价的教学能力评测基准。 | [PDF](papers/07_%E6%95%99%E5%AD%A6%E5%86%B3%E7%AD%96%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%AF%84%E4%BB%B7/19_L2_Bench_NeurIPS2026.pdf) · [会议官网](https://neurips.cc/virtual/2026/poster/139497) · [arXiv](https://arxiv.org/abs/2607.08842v2) |
 | 20 | An Information-Theoretic Evaluation Framework for Benchmark and Model Diagnosis in Knowledge Tracing | NeurIPS 2026 | 通过局部不可约不确定性与信息论诊断知识追踪基准和模型。 | [PDF](papers/07_%E6%95%99%E5%AD%A6%E5%86%B3%E7%AD%96%E4%B8%8E%E5%AD%A6%E4%B9%A0%E8%AF%84%E4%BB%B7/20_Knowledge_Tracing_Information_Theory_NeurIPS2026.pdf) · [会议官网](https://neurips.cc/virtual/2026/poster/149407) · [arXiv](https://arxiv.org/abs/2610.06988v1) |
 
+## 中文翻译
+
+以下三篇提供文本型中文阅读版（PDF 与 Markdown 源文），保留章节结构、表格数值、原图与公式；原版式不保留，关键内容请对照原文。
+
+| 编号 | 论文 | 中文阅读版 |
+| --- | --- | --- |
+| 05 | Adaptive Collaboration with Humans: Metacognitive Policy Optimization for Multi-Agent LLMs with Continual Learning | [PDF](translations/05_Human_Agent_Adaptive_Collaboration_%E4%B8%AD%E6%96%87%E7%BF%BB%E8%AF%91%E7%89%88.pdf) · [Markdown](translations/05_Human_Agent_Adaptive_Collaboration_%E4%B8%AD%E6%96%87%E7%BF%BB%E8%AF%91%E7%89%88.md) |
+| 10 | RLVER: Reinforcement Learning with Verifiable Emotion Rewards for Empathetic Agents | [PDF](translations/10_RLVER_%E4%B8%AD%E6%96%87%E7%BF%BB%E8%AF%91%E7%89%88.pdf) · [Markdown](translations/10_RLVER_%E4%B8%AD%E6%96%87%E7%BF%BB%E8%AF%91%E7%89%88.md) |
+| 16 | DataEnvGym: Data Generation Agents in Teacher Environments with Student Feedback | [PDF](translations/16_DataEnvGym_%E4%B8%AD%E6%96%87%E7%BF%BB%E8%AF%91%E7%89%88.pdf) · [Markdown](translations/16_DataEnvGym_%E4%B8%AD%E6%96%87%E7%BF%BB%E8%AF%91%E7%89%88.md) |
+
 ## 版本与题名说明
 
 - SeCom 的 arXiv 标题为 *On Memory Construction and Retrieval for Personalized Conversational Agents*，未包含会议标题中的 SeCom 前缀。
@@ -73,5 +83,6 @@
 ## 文件说明
 
 - `papers/`：按方向整理的论文原文 PDF。
+- `translations/`：三篇论文的文本型中文阅读版（PDF 与 Markdown）。
 - `metadata.json`：每篇论文的来源、作者、版本与文件校验信息。
 - 原论文版权及许可归各自作者或权利人，具体以论文及原始发布页面为准。
