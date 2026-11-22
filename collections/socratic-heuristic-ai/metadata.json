@@ -1,0 +1,642 @@
+[
+  {
+    "title": "SocraticLM: Exploring Socratic Personalized Teaching with Large Language Models",
+    "authors": [
+      "Liu, Jiayu",
+      "Huang, Zhenya",
+      "Xiao, Tong",
+      "Sha, Jing",
+      "Wu, Jinze",
+      "Liu, Qi",
+      "Wang, Shijin",
+      "Chen, Enhong"
+    ],
+    "year": 2024,
+    "booktitle": "Advances in Neural Information Processing Systems 37",
+    "doi": "10.52202/079017-2721",
+    "url": "https://doi.org/10.52202/079017-2721",
+    "id": "01_SocraticLM",
+    "ccf": "A",
+    "pdf_url": "https://proceedings.neurips.cc/paper_files/paper/2024/file/9bae399d1f34b8650351c1bd3692aeae-Paper-Conference.pdf",
+    "pages": 29,
+    "sha256": "fb263ff28d43f8d67fd80f637a7cc264010bf060b3198f812044349c56cafa66",
+    "pdf_mirrored": false,
+    "pdf_rights": "未在所读版本确认公开再分发授权；本地保存原文，公开库提供出版方/作者下载链接。",
+    "card": "papers/01_SocraticLM/paper-card.md",
+    "reading_scope": "main methods/results focused reading; appendices indexed, not exhaustive",
+    "audit": {
+      "status": "pass",
+      "passes": 15,
+      "warnings": 0,
+      "errors": 0
+    }
+  },
+  {
+    "title": "Beyond Pedagogical Principles: Multi-Horizon Preference Optimization for Efficient Socratic Tutoring",
+    "authors": [
+      "Xin Shi",
+      "Chao Zhang",
+      "Yifan Zhu",
+      "Xueqiao Zhang",
+      "Yawei Luo"
+    ],
+    "year": 2026,
+    "booktitle": "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    "doi": "10.18653/v1/2026.acl-long.518",
+    "url": "https://aclanthology.org/2026.acl-long.518/",
+    "id": "02_MHPO",
+    "ccf": "A",
+    "pdf_url": "https://aclanthology.org/2026.acl-long.518.pdf",
+    "pages": 18,
+    "sha256": "c4505d1ee3412b802568f9707cefe7588a78741bcdedf65ae49f489dc567367e",
+    "pdf_mirrored": true,
+    "pdf_rights": "CC BY 4.0；保留原文件及作者署名，未改动原文。",
+    "card": "papers/02_MHPO/paper-card.md",
+    "reading_scope": "main methods/results focused reading; appendices indexed, not exhaustive",
+    "audit": {
+      "status": "pass",
+      "passes": 15,
+      "warnings": 0,
+      "errors": 0
+    }
+  },
+  {
+    "title": "Tackling the Root of Misinformation by Teaching Laypeople about Logical Fallacies via Socratic Questioning and Critical Argumentation",
+    "authors": [
+      "Minjing Shi",
+      "Junling Wang",
+      "Jingwei Ni",
+      "Sankalan Pal Chowdhury",
+      "Mrinmaya Sachan"
+    ],
+    "year": 2026,
+    "booktitle": "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    "doi": "10.18653/v1/2026.acl-long.2209",
+    "url": "https://aclanthology.org/2026.acl-long.2209/",
+    "id": "03_LFTutor",
+    "ccf": "A",
+    "pdf_url": "https://aclanthology.org/2026.acl-long.2209.pdf",
+    "pages": 48,
+    "sha256": "9499203c847ba7438fe8de0ccd91adaa770590f6089e6169b1e89c34db2f5617",
+    "pdf_mirrored": true,
+    "pdf_rights": "CC BY 4.0；保留原文件及作者署名，未改动原文。",
+    "card": "papers/03_LFTutor/paper-card.md",
+    "reading_scope": "main methods/results focused reading; appendices indexed, not exhaustive",
+    "audit": {
+      "status": "pass",
+      "passes": 15,
+      "warnings": 0,
+      "errors": 0
+    }
+  },
+  {
+    "title": "MARS: Multi-Agent Adaptive Reasoning with Socratic Guidance for Automated Prompt Optimization",
+    "authors": [
+      "Jian Zhang",
+      "Zhangqi Wang",
+      "Haiping Zhu",
+      "Kangda Cheng",
+      "Kai He",
+      "Bo Li",
+      "Qika Lin",
+      "Jun Liu",
+      "Erik Cambria"
+    ],
+    "year": 2026,
+    "booktitle": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "doi": "10.1609/aaai.v40i19.38668",
+    "url": "https://doi.org/10.1609/aaai.v40i19.38668",
+    "id": "04_MARS",
+    "ccf": "A",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/38668/42630",
+    "pages": 9,
+    "sha256": "495e71a8f149897d2f7672ec02f00e4ffe8661f92b42034e017de5c9586ed22d",
+    "pdf_mirrored": false,
+    "pdf_rights": "未在所读版本确认公开再分发授权；本地保存原文，公开库提供出版方/作者下载链接。",
+    "card": "papers/04_MARS/paper-card.md",
+    "reading_scope": "main methods/results focused reading; appendices indexed, not exhaustive",
+    "audit": {
+      "status": "pass",
+      "passes": 15,
+      "warnings": 0,
+      "errors": 0
+    }
+  },
+  {
+    "title": "A Theory of Adaptive Scaffolding for LLM-Based Pedagogical Agents",
+    "authors": [
+      "Clayton Cohn",
+      "Surya Rayala",
+      "Namrata Srivastava",
+      "Joyce Horn Fonteles",
+      "Shruti Jain",
+      "Xinying Luo",
+      "Divya Mereddy",
+      "Naveeduddin Mohammed",
+      "Gautam Biswas"
+    ],
+    "year": 2026,
+    "booktitle": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "doi": "10.1609/aaai.v40i3.37154",
+    "url": "https://doi.org/10.1609/aaai.v40i3.37154",
+    "id": "05_Inquizzitor",
+    "ccf": "A",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/37154/41116",
+    "pages": 9,
+    "sha256": "2d3f802ff10aa73480c3ca552fd5436ae225f5aecaa1495671663a3db91d12eb",
+    "pdf_mirrored": false,
+    "pdf_rights": "未在所读版本确认公开再分发授权；本地保存原文，公开库提供出版方/作者下载链接。",
+    "card": "papers/05_Inquizzitor/paper-card.md",
+    "reading_scope": "main methods/results focused reading; appendices indexed, not exhaustive",
+    "audit": {
+      "status": "pass",
+      "passes": 15,
+      "warnings": 0,
+      "errors": 0
+    }
+  },
+  {
+    "title": "Planning-Guided Tutoring with Assessment-Driven Memory for Pedagogical LLM Tutors",
+    "authors": [
+      "Zechen Li",
+      "Qiannan Zhu",
+      "Mei Wang",
+      "Jia Li",
+      "Hua Huang"
+    ],
+    "year": 2026,
+    "booktitle": "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    "doi": "10.18653/v1/2026.acl-long.325",
+    "url": "https://aclanthology.org/2026.acl-long.325/",
+    "id": "06_ScaffoldLM",
+    "ccf": "A",
+    "pdf_url": "https://aclanthology.org/2026.acl-long.325.pdf",
+    "pages": 24,
+    "sha256": "3f23721f0ba9cccebf45552334a785c3268e2bae937342547d07deec51260096",
+    "pdf_mirrored": true,
+    "pdf_rights": "CC BY 4.0；保留原文件及作者署名，未改动原文。",
+    "card": "papers/06_ScaffoldLM/paper-card.md",
+    "reading_scope": "main methods/results focused reading; appendices indexed, not exhaustive",
+    "audit": {
+      "status": "pass",
+      "passes": 15,
+      "warnings": 0,
+      "errors": 0
+    }
+  },
+  {
+    "title": "Learning from Long-Term Engagement: Adaptive Tutoring Dialogue Planning for Personalized Education",
+    "authors": [
+      "Zhiang Dong",
+      "Zhenlong Dai",
+      "Xiangwei Lv",
+      "Jingyuan Chen"
+    ],
+    "year": 2026,
+    "booktitle": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "doi": "10.1609/aaai.v40i1.36984",
+    "url": "https://doi.org/10.1609/aaai.v40i1.36984",
+    "id": "07_LEAP",
+    "ccf": "A",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/36984/40946",
+    "pages": 9,
+    "sha256": "49923580e008ff31bfcfe570176fb33d97f62c32b627ec7b18360c1cbe16c5b4",
+    "pdf_mirrored": false,
+    "pdf_rights": "未在所读版本确认公开再分发授权；本地保存原文，公开库提供出版方/作者下载链接。",
+    "card": "papers/07_LEAP/paper-card.md",
+    "reading_scope": "main methods/results focused reading; appendices indexed, not exhaustive",
+    "audit": {
+      "status": "pass",
+      "passes": 15,
+      "warnings": 0,
+      "errors": 0
+    }
+  },
+  {
+    "title": "BIPED: Pedagogically Informed Tutoring System for ESL Education",
+    "authors": [
+      "Soonwoo Kwon",
+      "Sojung Kim",
+      "Minju Park",
+      "Seunghyun Lee",
+      "Kyuseok Kim"
+    ],
+    "year": 2024,
+    "booktitle": "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    "doi": "10.18653/v1/2024.acl-long.186",
+    "url": "https://aclanthology.org/2024.acl-long.186/",
+    "id": "08_BIPED",
+    "ccf": "A",
+    "pdf_url": "https://aclanthology.org/2024.acl-long.186.pdf",
+    "pages": 26,
+    "sha256": "61026f639e456e2f2568788ab89094c2f4199c2c892fd567e551b7790cd5609c",
+    "pdf_mirrored": true,
+    "pdf_rights": "CC BY 4.0；保留原文件及作者署名，未改动原文。",
+    "card": "papers/08_BIPED/paper-card.md",
+    "reading_scope": "main methods/results focused reading; appendices indexed, not exhaustive",
+    "audit": {
+      "status": "pass",
+      "passes": 15,
+      "warnings": 0,
+      "errors": 0
+    }
+  },
+  {
+    "title": "CodeAid: Evaluating a Classroom Deployment of an LLM-based Programming Assistant that Balances Student and Educator Needs",
+    "authors": [
+      "Kazemitabaar, Majeed",
+      "Ye, Runlong",
+      "Wang, Xiaoning",
+      "Henley, Austin Zachary",
+      "Denny, Paul",
+      "Craig, Michelle",
+      "Grossman, Tovi"
+    ],
+    "year": 2024,
+    "booktitle": "Proceedings of the CHI Conference on Human Factors in Computing Systems",
+    "doi": "10.1145/3613904.3642773",
+    "url": "https://doi.org/10.1145/3613904.3642773",
+    "id": "09_CodeAid",
+    "ccf": "A",
+    "pdf_url": "https://arxiv.org/pdf/2401.11314",
+    "arxiv": "2401.11314",
+    "pages": 20,
+    "sha256": "23259ff11db2e8d6ae834ce5a3450856568233a8b2fecfc08fa129411586582b",
+    "pdf_mirrored": false,
+    "pdf_rights": "未在所读版本确认公开再分发授权；本地保存原文，公开库提供出版方/作者下载链接。",
+    "card": "papers/09_CodeAid/paper-card.md",
+    "reading_scope": "main methods/results focused reading; appendices indexed, not exhaustive",
+    "audit": {
+      "status": "pass",
+      "passes": 15,
+      "warnings": 0,
+      "errors": 0
+    }
+  },
+  {
+    "title": "EducationQ: Evaluating LLMs’ Teaching Capabilities Through Multi-Agent Dialogue Framework",
+    "authors": [
+      "Yao Shi",
+      "Rongkeng Liang",
+      "Yong Xu"
+    ],
+    "year": 2025,
+    "booktitle": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    "doi": "10.18653/v1/2025.acl-long.1576",
+    "url": "https://aclanthology.org/2025.acl-long.1576/",
+    "id": "10_EducationQ",
+    "ccf": "A",
+    "pdf_url": "https://aclanthology.org/2025.acl-long.1576.pdf",
+    "pages": 30,
+    "sha256": "6625c40d02d0e7da215f95b5580c68dafeb645e2a6af282f1de12f0c881e88e2",
+    "pdf_mirrored": true,
+    "pdf_rights": "CC BY 4.0；保留原文件及作者署名，未改动原文。",
+    "card": "papers/10_EducationQ/paper-card.md",
+    "reading_scope": "main methods/results focused reading; appendices indexed, not exhaustive",
+    "audit": {
+      "status": "pass",
+      "passes": 15,
+      "warnings": 0,
+      "errors": 0
+    }
+  },
+  {
+    "key": "dbox",
+    "title": "DBox: Scaffolding Algorithmic Programming Learning through Learner-LLM Co-Decomposition",
+    "authors": [
+      "Ma, Shuai",
+      "Wang, Junling",
+      "Zhang, Yuanhao",
+      "Ma, Xiaojuan",
+      "Wang, April Yi"
+    ],
+    "year": 2025,
+    "booktitle": "Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems",
+    "doi": "10.1145/3706598.3713748",
+    "url": "https://doi.org/10.1145/3706598.3713748",
+    "id": "11_DBox",
+    "ccf": "A",
+    "pdf_url": "https://arxiv.org/pdf/2502.19133",
+    "arxiv": "2502.19133",
+    "pages": 20,
+    "sha256": "84aad3d8d5ebabf232cbf20a00eaf85ff55d115459caf884c6605b9ee088346a",
+    "pdf_mirrored": false,
+    "pdf_rights": "未在所读版本确认公开再分发授权；本地保存原文，公开库提供出版方/作者下载链接。",
+    "card": "papers/11_DBox/paper-card.md",
+    "reading_scope": "main methods/results focused reading; appendices indexed, not exhaustive",
+    "audit": {
+      "status": "pass",
+      "passes": 15,
+      "warnings": 0,
+      "errors": 0
+    }
+  },
+  {
+    "key": "teachaicode",
+    "title": "Teach AI How to Code: Using Large Language Models as Teachable Agents for Programming Education",
+    "authors": [
+      "Jin, Hyoungwook",
+      "Lee, Seonghee",
+      "Shin, Hyungyu",
+      "Kim, Juho"
+    ],
+    "year": 2024,
+    "booktitle": "Proceedings of the CHI Conference on Human Factors in Computing Systems",
+    "doi": "10.1145/3613904.3642349",
+    "url": "https://doi.org/10.1145/3613904.3642349",
+    "id": "12_TeachYou",
+    "ccf": "A",
+    "pdf_url": "https://arxiv.org/pdf/2309.14534",
+    "arxiv": "2309.14534",
+    "pages": 28,
+    "sha256": "b3e502a13b0f9c91444190762ce9ea05b89e171a43b112a077a493c17a1a7c13",
+    "pdf_mirrored": false,
+    "pdf_rights": "未在所读版本确认公开再分发授权；本地保存原文，公开库提供出版方/作者下载链接。",
+    "card": "papers/12_TeachYou/paper-card.md",
+    "reading_scope": "main methods/results focused reading; appendices indexed, not exhaustive",
+    "audit": {
+      "status": "pass",
+      "passes": 15,
+      "warnings": 0,
+      "errors": 0
+    }
+  },
+  {
+    "key": "hints-browser",
+    "title": "Hints-In-Browser: Benchmarking Language Models for Programming Feedback Generation",
+    "authors": [
+      "Kotalwar, Nachiket",
+      "Gotovos, Alkis",
+      "Singla, Adish"
+    ],
+    "year": 2024,
+    "booktitle": "Advances in Neural Information Processing Systems 37",
+    "doi": "10.52202/079017-0940",
+    "url": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/34cc2ded6daba59357134c0b9fb06bfe-Abstract-Datasets_and_Benchmarks_Track.html",
+    "track": "Datasets and Benchmarks Track",
+    "id": "13_Hints-In-Browser",
+    "ccf": "A",
+    "pdf_url": "https://arxiv.org/pdf/2406.05053",
+    "arxiv": "2406.05053",
+    "pages": 12,
+    "sha256": "9dcd446b4d78a35c483e8de0584aecfae9c0d7f274ed4753890307481186e029",
+    "pdf_mirrored": false,
+    "pdf_rights": "未在所读版本确认公开再分发授权；本地保存原文，公开库提供出版方/作者下载链接。",
+    "card": "papers/13_Hints-In-Browser/paper-card.md",
+    "reading_scope": "main methods/results focused reading; appendices indexed, not exhaustive",
+    "audit": {
+      "status": "pass",
+      "passes": 15,
+      "warnings": 0,
+      "errors": 0
+    }
+  },
+  {
+    "key": "aaai-headstart",
+    "title": "Get a Head Start: On-Demand Pedagogical Policy Selection in Intelligent Tutoring",
+    "authors": [
+      "Ge Gao",
+      "Xi Yang",
+      "Min  Chi"
+    ],
+    "year": 2024,
+    "booktitle": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "doi": "10.1609/aaai.v38i11.29102",
+    "url": "https://doi.org/10.1609/aaai.v38i11.29102",
+    "id": "14_EduPlanner",
+    "ccf": "A",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/29102/30083",
+    "pages": 9,
+    "sha256": "c9522d5685387d834b3c1fe1e0bd0107cb74cf5ce4a2a42b6829f2410ebc275e",
+    "pdf_mirrored": false,
+    "pdf_rights": "未在所读版本确认公开再分发授权；本地保存原文，公开库提供出版方/作者下载链接。",
+    "card": "papers/14_EduPlanner/paper-card.md",
+    "reading_scope": "main methods/results focused reading; appendices indexed, not exhaustive",
+    "audit": {
+      "status": "pass",
+      "passes": 15,
+      "warnings": 0,
+      "errors": 0
+    }
+  },
+  {
+    "key": "aaai-genal",
+    "title": "GenAL: Generative Agent for Adaptive Learning",
+    "authors": [
+      "Rui Lv",
+      "Qi Liu",
+      "Weibo Gao",
+      "Haotian Zhang",
+      "Junyu Lu",
+      "Linbo Zhu"
+    ],
+    "year": 2025,
+    "booktitle": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "doi": "10.1609/aaai.v39i1.32038",
+    "url": "https://doi.org/10.1609/aaai.v39i1.32038",
+    "id": "15_GenAL",
+    "ccf": "A",
+    "pdf_url": "https://ojs.aaai.org/index.php/AAAI/article/download/32038/34193",
+    "pages": 9,
+    "sha256": "1496fd0dbcfd03203561a70da3dd67caa6e73626cb155ce294f9fe06fe4b7d91",
+    "pdf_mirrored": false,
+    "pdf_rights": "未在所读版本确认公开再分发授权；本地保存原文，公开库提供出版方/作者下载链接。",
+    "card": "papers/15_GenAL/paper-card.md",
+    "reading_scope": "main methods/results focused reading; appendices indexed, not exhaustive",
+    "audit": {
+      "status": "pass",
+      "passes": 15,
+      "warnings": 0,
+      "errors": 0
+    }
+  },
+  {
+    "key": "2026.acl-long.408",
+    "title": "LearnerCoMPASS: Intelligent Tutoring System with Dynamic Cognitive Diagnosis and Multi-Model Path Planning",
+    "authors": [
+      "Ziji Sheng",
+      "Guiyao Tie",
+      "Weidong Wang",
+      "Pan Zhou",
+      "Daizong Liu"
+    ],
+    "year": 2026,
+    "booktitle": "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    "doi": "10.18653/v1/2026.acl-long.408",
+    "url": "https://aclanthology.org/2026.acl-long.408/",
+    "id": "16_LearnerCoMPASS",
+    "ccf": "A",
+    "pdf_url": "https://aclanthology.org/2026.acl-long.408.pdf",
+    "pages": 27,
+    "sha256": "3a2fdf3cb6c8509f85a610d2f0e2960fbe291761bbdefff8a6a4fbcac4f32d52",
+    "pdf_mirrored": true,
+    "pdf_rights": "CC BY 4.0；保留原文件及作者署名，未改动原文。",
+    "card": "papers/16_LearnerCoMPASS/paper-card.md",
+    "reading_scope": "main methods/results focused reading; appendices indexed, not exhaustive",
+    "audit": {
+      "status": "pass",
+      "passes": 15,
+      "warnings": 0,
+      "errors": 0
+    }
+  },
+  {
+    "key": "2026.acl-long.529",
+    "title": "SHAPE: Unifying Safety, Helpfulness and Pedagogy for Educational LLMs",
+    "authors": [
+      "Sihang Zhao",
+      "Kangrui Yu",
+      "Youliang Yuan",
+      "Pinjia He",
+      "Hongyi Wen"
+    ],
+    "year": 2026,
+    "booktitle": "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    "doi": "10.18653/v1/2026.acl-long.529",
+    "url": "https://aclanthology.org/2026.acl-long.529/",
+    "id": "17_SHAPE",
+    "ccf": "A",
+    "pdf_url": "https://aclanthology.org/2026.acl-long.529.pdf",
+    "pages": 17,
+    "sha256": "f72865b010d67ef48eee15458bcdc6cbc1a75bb7094f697367d4f3dc929d2790",
+    "pdf_mirrored": true,
+    "pdf_rights": "CC BY 4.0；保留原文件及作者署名，未改动原文。",
+    "card": "papers/17_SHAPE/paper-card.md",
+    "reading_scope": "main methods/results focused reading; appendices indexed, not exhaustive",
+    "audit": {
+      "status": "pass",
+      "passes": 15,
+      "warnings": 0,
+      "errors": 0
+    }
+  },
+  {
+    "key": "2026.acl-long.1328",
+    "title": "From Knowing to Teaching: Scaffolding Pedagogical Decisions for LLM Agent",
+    "authors": [
+      "Yucheng Wang",
+      "Shen Yang",
+      "Jifan Yu",
+      "Haoxuan Li",
+      "Joy Jia Yin Lim",
+      "Daniel Zhang-Li",
+      "Huiqin Liu",
+      "Lei Hou",
+      "Juanzi Li",
+      "Bin Xu"
+    ],
+    "year": 2026,
+    "booktitle": "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    "doi": "10.18653/v1/2026.acl-long.1328",
+    "url": "https://aclanthology.org/2026.acl-long.1328/",
+    "id": "18_TeachCraft",
+    "ccf": "A",
+    "pdf_url": "https://aclanthology.org/2026.acl-long.1328.pdf",
+    "pages": 24,
+    "sha256": "10859ee1f4fa39ce9d85e866ab96f2f537a83dd4ebd3a18f029b74fc17585842",
+    "pdf_mirrored": true,
+    "pdf_rights": "CC BY 4.0；保留原文件及作者署名，未改动原文。",
+    "card": "papers/18_TeachCraft/paper-card.md",
+    "reading_scope": "main methods/results focused reading; appendices indexed, not exhaustive",
+    "audit": {
+      "status": "pass",
+      "passes": 15,
+      "warnings": 0,
+      "errors": 0
+    }
+  },
+  {
+    "key": "chatscratch",
+    "title": "ChatScratch: An AI-Augmented System Toward Autonomous Visual Programming Learning for Children Aged 6-12",
+    "authors": [
+      "Chen, Liuqing",
+      "Xiao, Shuhong",
+      "Chen, Yunnong",
+      "Song, Yaxuan",
+      "Wu, Ruoyu",
+      "Sun, Lingyun"
+    ],
+    "year": 2024,
+    "booktitle": "Proceedings of the CHI Conference on Human Factors in Computing Systems",
+    "doi": "10.1145/3613904.3642229",
+    "url": "https://doi.org/10.1145/3613904.3642229",
+    "id": "19_ChatScratch",
+    "ccf": "A",
+    "pdf_url": "https://arxiv.org/pdf/2402.04975",
+    "arxiv": "2402.04975",
+    "pages": 20,
+    "sha256": "304f1b5e2d490aab644b5f2158d609e702826e901b98e97e089f76aa6c3addf8",
+    "pdf_mirrored": false,
+    "pdf_rights": "未在所读版本确认公开再分发授权；本地保存原文，公开库提供出版方/作者下载链接。",
+    "card": "papers/19_ChatScratch/paper-card.md",
+    "reading_scope": "main methods/results focused reading; appendices indexed, not exhaustive",
+    "audit": {
+      "status": "pass",
+      "passes": 15,
+      "warnings": 0,
+      "errors": 0
+    }
+  },
+  {
+    "key": "2025.acl-long.488",
+    "title": "Embracing Imperfection: Simulating Students with Diverse Cognitive Levels Using LLM-based Agents",
+    "authors": [
+      "Tao Wu",
+      "Jingyuan Chen",
+      "Wang Lin",
+      "Mengze Li",
+      "Yumeng Zhu",
+      "Ang Li",
+      "Kun Kuang",
+      "Fei Wu"
+    ],
+    "year": 2025,
+    "booktitle": "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    "doi": "10.18653/v1/2025.acl-long.488",
+    "url": "https://aclanthology.org/2025.acl-long.488/",
+    "id": "20_StudentSimulation",
+    "ccf": "A",
+    "pdf_url": "https://aclanthology.org/2025.acl-long.488.pdf",
+    "pages": 22,
+    "sha256": "d6b7e911397beda55750011eea63bfe2cef33bc90b24b1d87efd8bd9967b22c3",
+    "pdf_mirrored": true,
+    "pdf_rights": "CC BY 4.0；保留原文件及作者署名，未改动原文。",
+    "card": "papers/20_StudentSimulation/paper-card.md",
+    "reading_scope": "main methods/results focused reading; appendices indexed, not exhaustive",
+    "audit": {
+      "status": "pass",
+      "passes": 15,
+      "warnings": 0,
+      "errors": 0
+    }
+  },
+  {
+    "id": "21_SPL_background",
+    "title": "SPL: A Socratic Playground for Learning Powered by Large Language Model",
+    "authors": [
+      "Liang Zhang",
+      "Jionghao Lin",
+      "Ziyi Kuang",
+      "Sheng Xu",
+      "Xiangen Hu"
+    ],
+    "year": 2024,
+    "booktitle": "arXiv preprint",
+    "doi": "10.48550/arXiv.2406.13919",
+    "url": "https://arxiv.org/abs/2406.13919",
+    "pdf_url": "https://arxiv.org/pdf/2406.13919v4",
+    "ccf": "Not verified as CCF-A; background only",
+    "pages": 10,
+    "sha256": "766de15ff3e680e60424a0d80467eaa4162d026e60359105c29d3d2592c7f955",
+    "pdf_mirrored": true,
+    "pdf_rights": "CC BY 4.0；保留原文件及作者署名，未改动原文。",
+    "card": "papers/21_SPL_background/paper-card.md",
+    "reading_scope": "main methods/results focused reading; appendices indexed, not exhaustive",
+    "audit": {
+      "status": "pass",
+      "passes": 15,
+      "warnings": 0,
+      "errors": 0
+    }
+  }
+]
